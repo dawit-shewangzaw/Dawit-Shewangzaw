@@ -1,4 +1,4 @@
-export default {
+const  theme = {
     // Temp fonts
     fonts: {
       title: "Space Grotesk, sans-serif",
@@ -6,7 +6,7 @@ export default {
     },
     // Colors for layout
     colors: {
-      primary1: "#854CE6",
+      primary1: "#854CE6", 
       background1: "#222A35",
       button: "#854CE6",
       background2: "#19212C",
@@ -23,4 +23,5 @@ export default {
       lg: 'screen and (max-width: 1024px)',
       xl: 'screen and (max-width: 1280px)'
     },
-  }
+  };
+  export default theme;
