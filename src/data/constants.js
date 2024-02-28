@@ -150,7 +150,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/4420d4bc3ef0d9cb376180b6e25e5bdf.jpeg?lk3s=a5d48078&x-expires=1708977600&x-signature=vcIpqtocl%2BLomLBZd5pxf%2Fd9Vqo%3D",
+    img: "https://static7.tgstat.ru/channels/_0/c1/c1c2e659b90281980886064bef967aa0.jpg",
     school: "Falcon Acadmey School, Addis Abeba",
     date: "Sep 2019 - Jul 2020",
     grade: "427",
@@ -159,7 +159,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/4420d4bc3ef0d9cb376180b6e25e5bdf.jpeg?lk3s=a5d48078&x-expires=1708977600&x-signature=vcIpqtocl%2BLomLBZd5pxf%2Fd9Vqo%3D",
+    img: "https://static7.tgstat.ru/channels/_0/c1/c1c2e659b90281980886064bef967aa0.jpg",
     school: "Falcon Acadmey School, Addis Abeba",
     date: "Sep 2016 - Jul 2018",
     grade: "4 CGPA",
@@ -176,7 +176,7 @@ export const projects = [
     description:
       "It is an react website for Introduction OpenAI and show some showcase and properties of it.",
     image:
-      "https://private-user-images.githubusercontent.com/121303027/307781227-7a3f170a-b3e3-427c-897f-bc186bdcafc4.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMzI4MDgsIm5iZiI6MTcwOTAzMjUwOCwicGF0aCI6Ii8xMjEzMDMwMjcvMzA3NzgxMjI3LTdhM2YxNzBhLWIzZTMtNDI3Yy04OTdmLWJjMTg2YmRjYWZjNC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QxMTE1MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZGUxZmRiMDc5NzMzODE5MTY5NzY2YzM0MDY4MjE1MjhlYzJkZGI1ZTUwN2EyYWZjMjRmMzc3MGZhYjY0OGEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Z5hyFpqjGuja8CAJs8hHL5kiVquUBYR_T8KZLf_hnEo",
+      "https://private-user-images.githubusercontent.com/121303027/307781227-7a3f170a-b3e3-427c-897f-bc186bdcafc4.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMDI2NDQsIm5iZiI6MTcwOTEwMjM0NCwicGF0aCI6Ii8xMjEzMDMwMjcvMzA3NzgxMjI3LTdhM2YxNzBhLWIzZTMtNDI3Yy04OTdmLWJjMTg2YmRjYWZjNC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOFQwNjM5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMzY5NWZkMGI5NzU2YjVhYmFmYTcwY2YzOGY3MGEyNDYxMThjMTQ5NjJlMDgyYzZiZTFlYjNiN2RkZWE0ODliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IRmqWwlvbQJqVbWM6TSVpApI4O65M3lWK0lhczLoFw0",
     tags: [
       "Html",
       "CSS",
@@ -194,7 +194,7 @@ export const projects = [
     description:
       "It is an react website for a restaurant.",
     image:
-      "https://private-user-images.githubusercontent.com/121303027/307867499-3beaac10-72d4-4025-bfb8-2065c3447db8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMzI4OTMsIm5iZiI6MTcwOTAzMjU5MywicGF0aCI6Ii8xMjEzMDMwMjcvMzA3ODY3NDk5LTNiZWFhYzEwLTcyZDQtNDAyNS1iZmI4LTIwNjVjMzQ0N2RiOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QxMTE2MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDliNDQ4OWZjNzc3NjQ5NGYwZWNhMTdjMmQ1M2Y2ZDczMTFjNmEyMmU3Y2I5ODVkM2E0ODk0NmUzNjg4ZTZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dITRqaYR9FBPUdNib0l2B88S4CvVQsMPFUyxhmMuavs",
+    "https://private-user-images.githubusercontent.com/121303027/307867499-3beaac10-72d4-4025-bfb8-2065c3447db8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMDI0ODAsIm5iZiI6MTcwOTEwMjE4MCwicGF0aCI6Ii8xMjEzMDMwMjcvMzA3ODY3NDk5LTNiZWFhYzEwLTcyZDQtNDAyNS1iZmI4LTIwNjVjMzQ0N2RiOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOFQwNjM2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOTQ3MzNiMTIyZDMwZTY2YzZmZDhhYmVkOTJmM2I1NTUwZDc4ZDMxMDkzOTY0NjM2NDljMzgxMWI4ZmY0MDBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZwBMTNHf9XARSFKe2nQin-Cy_nx9y14SjSFEKCql9lk", 
     tags: [
       "Html",
       "CSS",
@@ -226,7 +226,7 @@ export const projects = [
     description:
       "It is a simple book store website used for announcements of new book and our existing book collection.",
     image:
-      "https://private-user-images.githubusercontent.com/121303027/307710678-c7c82395-530b-4dc5-b75d-726281e1696f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5Njg4MTIsIm5iZiI6MTcwODk2ODUxMiwicGF0aCI6Ii8xMjEzMDMwMjcvMzA3NzEwNjc4LWM3YzgyMzk1LTUzMGItNGRjNS1iNzVkLTcyNjI4MWUxNjk2Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyNlQxNzI4MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZmRhMmI1OWJhODQ0MmU4NGE1ZTY1MDI4NTM0YmM2MjU2NzBkYzk3ODM3MmM1MTkxOTU0NDJmYjg1ZGFkZWJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uemvSZ6ov3KFoJrYjLUWAWmvmguipWZrdByx3tD-W4k",
+      "https://private-user-images.githubusercontent.com/121303027/307710678-c7c82395-530b-4dc5-b75d-726281e1696f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMDI2MDYsIm5iZiI6MTcwOTEwMjMwNiwicGF0aCI6Ii8xMjEzMDMwMjcvMzA3NzEwNjc4LWM3YzgyMzk1LTUzMGItNGRjNS1iNzVkLTcyNjI4MWUxNjk2Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOFQwNjM4MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZmI1N2RkZjFhZWRjYTQ4ZjMzNmU0ZWY5NjkxYzMzZTlmNGM5MGM3ODc0OTk1NzM4MGI1YmY4NjZmZDg3NGFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.HG03wSddy-N_tac9ufU7wbHCrqlvagaT34d1IEhLPuQ",
     tags: [
       "Html",
     ],
