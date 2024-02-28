@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# My Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Welcome to my portfolio! This project showcases of my skills, projects, and experiences as a web developer!
 
-## Available Scripts
 
-In the project directory, you can run:
+### Some Images :-
 
-### `npm start`
+![15](https://github.com/dawit-shewangzaw/Dawit-Shewangzaw/assets/121303027/0c10a484-a9e0-4b46-a000-bb43dfc455d3)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![18](https://github.com/dawit-shewangzaw/Dawit-Shewangzaw/assets/121303027/309f876f-55fe-4300-acf3-3f12f53d9eec)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![19](https://github.com/dawit-shewangzaw/Dawit-Shewangzaw/assets/121303027/aab91d85-3197-40c1-a657-e26f66152212)
 
-### `npm test`
+![20](https://github.com/dawit-shewangzaw/Dawit-Shewangzaw/assets/121303027/ee0915e4-685f-4a93-933f-0c60bdcb776f)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Table of Contents
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Introduction:
+* Features
+* Technologies Used:
+* Installation:
+* Usage:
+* Contributing:
+* License:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Introduction
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This React.js application serves as my personal portfolio website, showcasing my skills, experience, educational background, and projects. It aims to provide a comprehensive overview of my capabilities and aspirations.
 
-### `npm run eject`
+# Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Personal Information: Display my name, contact details, and a brief introduction.
+* Skills: Showcase my skills categorized using sections like "Front-End" and "Back-End."
+* Experience: List my professional experiences with details like company names, positions, and achievements.
+* Education: Provide information about my educational background, including institutions and degrees.
+* Projects: Present my personal projects with descriptions, screenshots, and links to:
+    * Code on GitHub: Include a link to the corresponding project repository on GitHub.
+    * Live Website: It also provide a link to the live website for interactive exploration.
+* Contact Me: Offer multiple ways for visitors to reach out, such as email address or social media links.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* HTML: The fundamental building block of web pages, providing the structure and content.
+* CSS: Used for styling the visual presentation of the application.
+* JavaScript: Can be used for additional functionalities and interactions within the application.
+* React.js: A JavaScript library for building user interfaces, providing a component-based structure and efficient rendering.
+* Git: A version control system for tracking changes and collaborating on projects.
+* GitHub Pages: A platform for hosting and deploying web applications.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Installation
 
-## Learn More
+1,Clone the repository: Open your terminal and navigate to your desired local directory. Then, run the following command:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Bash**
+* git clone https://github.com/dawit-shewangzaw/Dawit-Shewangzaw
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2,Install dependencies: Navigate to the project directory:
 
-### Code Splitting
+**Bash**
+* cd introduction-to-openai
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Install the required dependencies:
 
-### Analyzing the Bundle Size
+**Bash**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* npm install
+* npm install react-icons
 
-### Making a Progressive Web App
+3, Run the following command to start the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Bash**
+* npm start
 
-### Advanced Configuration
+This will launch a local server and open the Vision Book Store application in your web browser, typically at http://localhost:3000/.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Usage
 
-### Deployment
+After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Contributing
 
-### `npm run build` fails to minify
+Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Fork the repository.
+* Create a new branch for your feature or bug fix: git checkout -b my-feature
+* Commit your changes: git commit -m 'Add some feature'
+* Push to the branch: git push origin my-feature
+* Open a pull request.
+
+# License
+
+This project is licensed under the MIT License: https://choosealicense.com/licenses/mit/. This means you are free to use, modify, and distribute the code for personal and commercial purposes, with the condition that you include the copyright notice and license terms in your derived works.
