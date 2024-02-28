@@ -176,7 +176,7 @@ export const projects = [
     description:
       "It is an react website for Introduction OpenAI and show some showcase and properties of it.",
     image:
-      "https://private-user-images.githubusercontent.com/121303027/307781227-7a3f170a-b3e3-427c-897f-bc186bdcafc4.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMDI2NDQsIm5iZiI6MTcwOTEwMjM0NCwicGF0aCI6Ii8xMjEzMDMwMjcvMzA3NzgxMjI3LTdhM2YxNzBhLWIzZTMtNDI3Yy04OTdmLWJjMTg2YmRjYWZjNC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOFQwNjM5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMzY5NWZkMGI5NzU2YjVhYmFmYTcwY2YzOGY3MGEyNDYxMThjMTQ5NjJlMDgyYzZiZTFlYjNiN2RkZWE0ODliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IRmqWwlvbQJqVbWM6TSVpApI4O65M3lWK0lhczLoFw0",
+      "https://camo.githubusercontent.com/ce00619bb441026b0f755f46a50d7e95c67585a08a2c56d31cb1409de71e88f1/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67",
     tags: [
       "Html",
       "CSS",
@@ -194,7 +194,7 @@ export const projects = [
     description:
       "It is an react website for a restaurant.",
     image:
-    "https://private-user-images.githubusercontent.com/121303027/307867499-3beaac10-72d4-4025-bfb8-2065c3447db8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMDI0ODAsIm5iZiI6MTcwOTEwMjE4MCwicGF0aCI6Ii8xMjEzMDMwMjcvMzA3ODY3NDk5LTNiZWFhYzEwLTcyZDQtNDAyNS1iZmI4LTIwNjVjMzQ0N2RiOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOFQwNjM2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOTQ3MzNiMTIyZDMwZTY2YzZmZDhhYmVkOTJmM2I1NTUwZDc4ZDMxMDkzOTY0NjM2NDljMzgxMWI4ZmY0MDBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZwBMTNHf9XARSFKe2nQin-Cy_nx9y14SjSFEKCql9lk", 
+    "https://camo.githubusercontent.com/e572eba57a6e4bbc6d3264c0c5bacc218a04b5b165b979072663a6a357c2fa34/68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67", 
     tags: [
       "Html",
       "CSS",
@@ -213,7 +213,7 @@ export const projects = [
     description:
       "It is an react website for a bank .",
     image:
-      "https://private-user-images.githubusercontent.com/121303027/307818382-f15f6c13-5a6c-4339-b9ee-2d758876803b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NjkxOTMsIm5iZiI6MTcwODk2ODg5MywicGF0aCI6Ii8xMjEzMDMwMjcvMzA3ODE4MzgyLWYxNWY2YzEzLTVhNmMtNDMzOS1iOWVlLTJkNzU4ODc2ODAzYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyNlQxNzM0NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYjA4YTFlYjRlMDc2YjJkODIyZTM5Zjc2NmNmNjM5ODI3NDQxMTFlMjhkOGNmMTVmODlkOTUzMzNmZDg0OWI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.k_LbUMlPV-OQmx8mOHH4VYn6NTXLwUsjfVtque0wWs8",
+      "https://camo.githubusercontent.com/62ba6cbe9b62d2ccb55c07db2258d33c782d0e15b3231153d7b0f20935b57272/68747470733a2f2f692e6962622e636f2f424b31486e30782f53637265656e73686f742d323032322d30382d30382d61742d342d30352d34382d504d2e706e67",
     tags: ["Html","CSS","JavaScript","React.js",],
     category: "web app",
     github: "https://github.com/dawit-shewangzaw/Nile-Bank",
