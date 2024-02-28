@@ -10,7 +10,7 @@ export const Bio = {
     "I thrive in the dynamic world of Web-development, where versatility is key. I seamlessly navigate between design thinking and technical expertise, consistently delivering high-quality results that exceed expectations. My collaborative spirit and problem-solving skills make me a valuable asset to any team..",
   github: "https://github.com/dawit-shewangzaw",
   resume:
-    "https://www.dropbox.com/scl/fi/qihdwqwrpmdklw94aj94d/Dawit-Shewangaw-CV.pdf?rlkey=4zvxojtoh68o215zf8uzfmtud&dl=0",
+    "../images/Dawit-Shewangaw-CV.pdf",
   linkedin: "https://www.linkedin.com/in/dawit-shewangzaw/",
 };
 

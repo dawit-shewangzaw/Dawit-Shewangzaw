@@ -29,7 +29,7 @@ const HeroSection = () => {
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
                         
-                        <ResumeButton href="https://www.dropbox.com/scl/fi/v0qlstg7co27zamt2rmbo/Dawit-Shewangzaw-FlowCV-Resume.pdf?rlkey=aygjylfnjopa844dnvd2mxi9m&dl=0"
+                        <ResumeButton href="https://www.dropbox.com/scl/fi/qihdwqwrpmdklw94aj94d/Dawit-Shewangaw-CV.pdf?rlkey=4zvxojtoh68o215zf8uzfmtud&dl=0"
                                     target="_blank" rel="noopener noreferrer">
                                     Check Resume
                         </ResumeButton>
