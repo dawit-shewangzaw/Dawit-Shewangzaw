@@ -24,6 +24,7 @@
 * Contributing:
 * License:
 
+
 # Introduction
 
 This React.js application serves as my personal portfolio website, showcasing my skills, experience, educational background, and projects. It aims to provide a comprehensive overview of my capabilities and aspirations.
